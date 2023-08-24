@@ -1,0 +1,106 @@
+<style>
+
+h1{color: chartreuse;}
+
+
+*{
+    box-sizing: border-box;
+}
+
+.title{
+    /* background-color: darkkhaki; */
+    background-image: linear-gradient(bottom,green,red);
+    font-family: Arial;
+    color: rgb(255, 255, 255);
+    padding-left: 500px;
+    padding-top: 50px;
+    padding-bottom: 102px;
+    background: linear-gradient(#b023c2 15%, #600be7);
+}
+.subtitle{
+    background: linear-gradient( #600be7,#b023c2 );
+    color: blanchedalmond;
+    font-family: Arial;
+    padding-bottom: 50px;
+    
+    margin-top: -30px;
+    
+}
+
+    
+
+ #tcd,#lr,#grad,#hb,#mbdtf,#yee,#pab,#ye,#jes{ 
+
+    text-align: center;
+    padding-bottom:100px;
+    padding-top: 100px;
+    margin-top: -61PX;
+ 
+    /* background-color: red; */
+   
+  
+}
+
+#tcd{
+    background-image: linear-gradient(to bottom right,rgba(128, 36, 0, 0.863),rgba(110, 62, 62, 0.9));
+    
+
+}
+
+#lr
+{
+    background-image: linear-gradient(to bottom right,rgb(109, 67, 25),rgba(172, 158, 145, 0.9));
+}
+
+#grad
+{
+    /* background-image: linear-gradient(to bottom,rgb(207, 28, 118),rgba(201, 133, 168, 0.9)); */
+    /* background-image: radial-gradient(rgb(207, 28, 118),rgba(201, 133, 168, 0.9)); */
+    background-image: linear-gradient(rgb(199 39 120),rgb(150 41 97 / 90%));
+}
+
+#hb
+{
+     background-image: linear-gradient(to bottom,rgb(252, 99, 99),rgba(255, 52, 52,0.9)); 
+    
+}
+#mbdtf
+{
+    background-image: linear-gradient(to bottom,rgb(255, 77, 77),rgba(252, 142, 142, 0.9));
+}
+#yee
+{
+    /* background-image: linear-gradient(to bottom,rgba(179, 179, 179,0.9),rgba(118, 206, 235, 0.9),rgba(87, 82, 82, 0.5)); */
+    background-image: linear-gradient(rgb(59 166 199 / 90%),rgb(205 232 232 / 90%));
+}
+#pab
+{
+    background-image: linear-gradient(to bottom,rgb(255 103 0 / 70%),rgba(245, 197, 167, 0.9));
+}
+#ye
+{
+    background-image: linear-gradient(to bottom,rgb(4 71 105),rgb(110 160 193 / 90%));
+}
+#jes
+{
+    background-image: linear-gradient(to bottom,rgb(56 56 236),rgb(106 106 255 / 90%));
+}
+
+div>a{
+    color: black;
+}
+.link 
+{
+    cursor: pointer;
+    text-decoration: none ;
+    
+}
+h3{
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-family: Arial;
+    top: -52px;
+    left: 20px;
+    
+}
+</style>
